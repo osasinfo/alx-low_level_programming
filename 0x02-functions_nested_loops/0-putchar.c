@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - write a program that prints _putchar, followed by a new line
+ * main - write a program that prints _putchar
  *
  * Return: Always 0 (success)
  */
@@ -18,4 +18,3 @@ int main(void)
 
 	return (0);
 }
-
