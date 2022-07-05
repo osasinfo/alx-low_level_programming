@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /**
- * my_function: 4-print_alphabt.c
- *
- * Description: Prints the letters in lowercase, except for q and e'
+ * main - description: Prints the letters in lowercase, except for q and e'
  *
  * Return: always 0 (Sucess)
  */

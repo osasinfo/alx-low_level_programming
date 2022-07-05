@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+/**
+ * main - this program will assign a random
+ *
+ * Return : Always 0.
+ */
+int main(void)
+
