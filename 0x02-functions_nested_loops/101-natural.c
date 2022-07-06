@@ -17,7 +17,7 @@ int main(void)
 		{
 			sum += a;
 		}
-		c++;
+		a++;
 	}
 	printf("%i\n", sum);
 	return (0);
