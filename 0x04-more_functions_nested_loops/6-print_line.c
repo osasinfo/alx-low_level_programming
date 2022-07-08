@@ -1,23 +1,21 @@
 #include "main.h"
 
 /**
- * print_line - function that prints the numbers, from 0 to 9
- * @n: is the integer for the paramaters of my function
+ * print_line - Draws a straight line using the character _.
+ * @n: The number of _ characters to be printed
  * Returns: Always 0
  */
 void print_line(int n)
 {
-	int l;
+	int length;
 
 	if (n > 0)
 	{
-		for (l = 0; l <= n; l++)
+		for (length = 0; length < n; length++)
 		{
 			_putchar('_');
 		}
 
 		_putchar('\n');
 	}
-	else
-		_putchar('\n');
 }
