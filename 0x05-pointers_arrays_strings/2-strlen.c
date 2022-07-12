@@ -2,7 +2,8 @@
 #include "string.h"
 
 /**
- * int _strlen - Return let of a string
+ * _strlen - Return lenght of a string
+ * @s: string check
  *
  * Return: Always 0.
  */
