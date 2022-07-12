@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * puts - function that prints every other character of a string
+ * puts2 - function that prints every other character of a string
  * @str: str paramater
  */
 void puts2(char *str)
